@@ -1,4 +1,4 @@
-![Picture1](/Picture1.PNG "")
+![Picture1](/Picture1.png "")
 
 
 # Leveraging-Time-Series-Analysis-for-Liquor-Sales-Insights
